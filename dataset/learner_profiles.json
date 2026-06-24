@@ -1,0 +1,1453 @@
+[
+  {
+    "learner_id": "L200",
+    "level": "advanced",
+    "known_topics": [
+      "tool_use",
+      "rag_fundamentals",
+      "evaluation",
+      "safety_and_guardrails"
+    ],
+    "weak_topics": [
+      "chain_of_thought",
+      "embeddings"
+    ],
+    "mastery": {
+      "prompt_basics": 0.54,
+      "few_shot_prompting": 0.58,
+      "chain_of_thought": 0.08,
+      "tool_use": 0.81,
+      "rag_fundamentals": 0.71,
+      "embeddings": 0.12,
+      "evaluation": 0.83,
+      "safety_and_guardrails": 0.71
+    }
+  },
+  {
+    "learner_id": "L201",
+    "level": "beginner",
+    "known_topics": [
+      "safety_and_guardrails",
+      "embeddings",
+      "prompt_basics",
+      "chain_of_thought"
+    ],
+    "weak_topics": [
+      "rag_fundamentals",
+      "tool_use",
+      "few_shot_prompting"
+    ],
+    "mastery": {
+      "prompt_basics": 0.79,
+      "few_shot_prompting": 0.1,
+      "chain_of_thought": 0.94,
+      "tool_use": 0.15,
+      "rag_fundamentals": 0.08,
+      "embeddings": 0.72,
+      "evaluation": 0.57,
+      "safety_and_guardrails": 0.85
+    }
+  },
+  {
+    "learner_id": "L202",
+    "level": "beginner",
+    "known_topics": [
+      "evaluation",
+      "few_shot_prompting",
+      "chain_of_thought",
+      "embeddings"
+    ],
+    "weak_topics": [
+      "tool_use",
+      "prompt_basics",
+      "rag_fundamentals",
+      "safety_and_guardrails"
+    ],
+    "mastery": {
+      "prompt_basics": 0.32,
+      "few_shot_prompting": 0.79,
+      "chain_of_thought": 0.75,
+      "tool_use": 0.07,
+      "rag_fundamentals": 0.25,
+      "embeddings": 0.89,
+      "evaluation": 0.95,
+      "safety_and_guardrails": 0.31
+    }
+  },
+  {
+    "learner_id": "L203",
+    "level": "beginner",
+    "known_topics": [
+      "prompt_basics",
+      "rag_fundamentals"
+    ],
+    "weak_topics": [
+      "embeddings",
+      "few_shot_prompting",
+      "safety_and_guardrails",
+      "tool_use"
+    ],
+    "mastery": {
+      "prompt_basics": 0.77,
+      "few_shot_prompting": 0.33,
+      "chain_of_thought": 0.53,
+      "tool_use": 0.23,
+      "rag_fundamentals": 0.74,
+      "embeddings": 0.27,
+      "evaluation": 0.43,
+      "safety_and_guardrails": 0.16
+    }
+  },
+  {
+    "learner_id": "L204",
+    "level": "advanced",
+    "known_topics": [
+      "evaluation",
+      "safety_and_guardrails",
+      "rag_fundamentals"
+    ],
+    "weak_topics": [
+      "few_shot_prompting",
+      "prompt_basics",
+      "chain_of_thought"
+    ],
+    "mastery": {
+      "prompt_basics": 0.07,
+      "few_shot_prompting": 0.32,
+      "chain_of_thought": 0.22,
+      "tool_use": 0.54,
+      "rag_fundamentals": 0.75,
+      "embeddings": 0.5,
+      "evaluation": 0.92,
+      "safety_and_guardrails": 0.86
+    }
+  },
+  {
+    "learner_id": "L205",
+    "level": "beginner",
+    "known_topics": [
+      "prompt_basics",
+      "embeddings",
+      "tool_use",
+      "chain_of_thought"
+    ],
+    "weak_topics": [
+      "safety_and_guardrails",
+      "evaluation",
+      "few_shot_prompting"
+    ],
+    "mastery": {
+      "prompt_basics": 0.79,
+      "few_shot_prompting": 0.35,
+      "chain_of_thought": 0.73,
+      "tool_use": 0.82,
+      "rag_fundamentals": 0.55,
+      "embeddings": 0.92,
+      "evaluation": 0.1,
+      "safety_and_guardrails": 0.1
+    }
+  },
+  {
+    "learner_id": "L206",
+    "level": "advanced",
+    "known_topics": [
+      "embeddings",
+      "few_shot_prompting",
+      "chain_of_thought",
+      "safety_and_guardrails"
+    ],
+    "weak_topics": [
+      "tool_use",
+      "prompt_basics",
+      "rag_fundamentals"
+    ],
+    "mastery": {
+      "prompt_basics": 0.34,
+      "few_shot_prompting": 0.92,
+      "chain_of_thought": 0.7,
+      "tool_use": 0.27,
+      "rag_fundamentals": 0.25,
+      "embeddings": 0.83,
+      "evaluation": 0.45,
+      "safety_and_guardrails": 0.86
+    }
+  },
+  {
+    "learner_id": "L207",
+    "level": "beginner",
+    "known_topics": [
+      "safety_and_guardrails",
+      "embeddings",
+      "chain_of_thought",
+      "prompt_basics"
+    ],
+    "weak_topics": [
+      "evaluation",
+      "few_shot_prompting"
+    ],
+    "mastery": {
+      "prompt_basics": 0.83,
+      "few_shot_prompting": 0.08,
+      "chain_of_thought": 0.86,
+      "tool_use": 0.57,
+      "rag_fundamentals": 0.5,
+      "embeddings": 0.75,
+      "evaluation": 0.16,
+      "safety_and_guardrails": 0.74
+    }
+  },
+  {
+    "learner_id": "L208",
+    "level": "advanced",
+    "known_topics": [
+      "embeddings",
+      "few_shot_prompting",
+      "evaluation"
+    ],
+    "weak_topics": [
+      "safety_and_guardrails",
+      "tool_use"
+    ],
+    "mastery": {
+      "prompt_basics": 0.41,
+      "few_shot_prompting": 0.92,
+      "chain_of_thought": 0.59,
+      "tool_use": 0.08,
+      "rag_fundamentals": 0.5,
+      "embeddings": 0.72,
+      "evaluation": 0.89,
+      "safety_and_guardrails": 0.28
+    }
+  },
+  {
+    "learner_id": "L209",
+    "level": "beginner",
+    "known_topics": [
+      "embeddings",
+      "evaluation",
+      "prompt_basics",
+      "tool_use"
+    ],
+    "weak_topics": [
+      "chain_of_thought",
+      "few_shot_prompting",
+      "rag_fundamentals"
+    ],
+    "mastery": {
+      "prompt_basics": 0.8,
+      "few_shot_prompting": 0.25,
+      "chain_of_thought": 0.16,
+      "tool_use": 0.92,
+      "rag_fundamentals": 0.19,
+      "embeddings": 0.76,
+      "evaluation": 0.72,
+      "safety_and_guardrails": 0.4
+    }
+  },
+  {
+    "learner_id": "L210",
+    "level": "advanced",
+    "known_topics": [
+      "embeddings",
+      "safety_and_guardrails"
+    ],
+    "weak_topics": [
+      "chain_of_thought",
+      "evaluation"
+    ],
+    "mastery": {
+      "prompt_basics": 0.58,
+      "few_shot_prompting": 0.57,
+      "chain_of_thought": 0.07,
+      "tool_use": 0.45,
+      "rag_fundamentals": 0.53,
+      "embeddings": 0.75,
+      "evaluation": 0.09,
+      "safety_and_guardrails": 0.93
+    }
+  },
+  {
+    "learner_id": "L211",
+    "level": "advanced",
+    "known_topics": [
+      "rag_fundamentals",
+      "chain_of_thought",
+      "prompt_basics",
+      "evaluation"
+    ],
+    "weak_topics": [
+      "embeddings",
+      "tool_use",
+      "few_shot_prompting"
+    ],
+    "mastery": {
+      "prompt_basics": 0.79,
+      "few_shot_prompting": 0.17,
+      "chain_of_thought": 0.92,
+      "tool_use": 0.07,
+      "rag_fundamentals": 0.86,
+      "embeddings": 0.24,
+      "evaluation": 0.72,
+      "safety_and_guardrails": 0.55
+    }
+  },
+  {
+    "learner_id": "L212",
+    "level": "beginner",
+    "known_topics": [
+      "chain_of_thought",
+      "embeddings"
+    ],
+    "weak_topics": [
+      "prompt_basics",
+      "safety_and_guardrails",
+      "rag_fundamentals"
+    ],
+    "mastery": {
+      "prompt_basics": 0.19,
+      "few_shot_prompting": 0.57,
+      "chain_of_thought": 0.72,
+      "tool_use": 0.56,
+      "rag_fundamentals": 0.31,
+      "embeddings": 0.72,
+      "evaluation": 0.53,
+      "safety_and_guardrails": 0.21
+    }
+  },
+  {
+    "learner_id": "L213",
+    "level": "beginner",
+    "known_topics": [
+      "prompt_basics",
+      "chain_of_thought"
+    ],
+    "weak_topics": [
+      "rag_fundamentals",
+      "tool_use",
+      "embeddings"
+    ],
+    "mastery": {
+      "prompt_basics": 0.93,
+      "few_shot_prompting": 0.43,
+      "chain_of_thought": 0.7,
+      "tool_use": 0.17,
+      "rag_fundamentals": 0.33,
+      "embeddings": 0.29,
+      "evaluation": 0.46,
+      "safety_and_guardrails": 0.54
+    }
+  },
+  {
+    "learner_id": "L214",
+    "level": "advanced",
+    "known_topics": [
+      "tool_use",
+      "rag_fundamentals",
+      "prompt_basics",
+      "embeddings"
+    ],
+    "weak_topics": [
+      "chain_of_thought",
+      "evaluation",
+      "few_shot_prompting"
+    ],
+    "mastery": {
+      "prompt_basics": 0.71,
+      "few_shot_prompting": 0.23,
+      "chain_of_thought": 0.2,
+      "tool_use": 0.91,
+      "rag_fundamentals": 0.74,
+      "embeddings": 0.94,
+      "evaluation": 0.07,
+      "safety_and_guardrails": 0.44
+    }
+  },
+  {
+    "learner_id": "L215",
+    "level": "advanced",
+    "known_topics": [
+      "evaluation",
+      "rag_fundamentals",
+      "chain_of_thought",
+      "prompt_basics"
+    ],
+    "weak_topics": [
+      "tool_use",
+      "safety_and_guardrails",
+      "embeddings",
+      "few_shot_prompting"
+    ],
+    "mastery": {
+      "prompt_basics": 0.71,
+      "few_shot_prompting": 0.07,
+      "chain_of_thought": 0.86,
+      "tool_use": 0.22,
+      "rag_fundamentals": 0.78,
+      "embeddings": 0.13,
+      "evaluation": 0.87,
+      "safety_and_guardrails": 0.14
+    }
+  },
+  {
+    "learner_id": "L216",
+    "level": "intermediate",
+    "known_topics": [
+      "rag_fundamentals",
+      "prompt_basics"
+    ],
+    "weak_topics": [
+      "safety_and_guardrails",
+      "tool_use",
+      "chain_of_thought"
+    ],
+    "mastery": {
+      "prompt_basics": 0.86,
+      "few_shot_prompting": 0.51,
+      "chain_of_thought": 0.08,
+      "tool_use": 0.21,
+      "rag_fundamentals": 0.83,
+      "embeddings": 0.43,
+      "evaluation": 0.47,
+      "safety_and_guardrails": 0.07
+    }
+  },
+  {
+    "learner_id": "L217",
+    "level": "beginner",
+    "known_topics": [
+      "safety_and_guardrails",
+      "prompt_basics",
+      "rag_fundamentals",
+      "evaluation"
+    ],
+    "weak_topics": [
+      "tool_use",
+      "few_shot_prompting",
+      "chain_of_thought",
+      "embeddings"
+    ],
+    "mastery": {
+      "prompt_basics": 0.77,
+      "few_shot_prompting": 0.25,
+      "chain_of_thought": 0.33,
+      "tool_use": 0.09,
+      "rag_fundamentals": 0.73,
+      "embeddings": 0.08,
+      "evaluation": 0.84,
+      "safety_and_guardrails": 0.77
+    }
+  },
+  {
+    "learner_id": "L218",
+    "level": "advanced",
+    "known_topics": [
+      "prompt_basics",
+      "rag_fundamentals",
+      "safety_and_guardrails"
+    ],
+    "weak_topics": [
+      "evaluation",
+      "few_shot_prompting"
+    ],
+    "mastery": {
+      "prompt_basics": 0.72,
+      "few_shot_prompting": 0.18,
+      "chain_of_thought": 0.46,
+      "tool_use": 0.4,
+      "rag_fundamentals": 0.89,
+      "embeddings": 0.53,
+      "evaluation": 0.13,
+      "safety_and_guardrails": 0.89
+    }
+  },
+  {
+    "learner_id": "L219",
+    "level": "advanced",
+    "known_topics": [
+      "few_shot_prompting",
+      "tool_use",
+      "chain_of_thought",
+      "safety_and_guardrails"
+    ],
+    "weak_topics": [
+      "embeddings",
+      "prompt_basics"
+    ],
+    "mastery": {
+      "prompt_basics": 0.3,
+      "few_shot_prompting": 0.85,
+      "chain_of_thought": 0.74,
+      "tool_use": 0.73,
+      "rag_fundamentals": 0.46,
+      "embeddings": 0.32,
+      "evaluation": 0.56,
+      "safety_and_guardrails": 0.92
+    }
+  },
+  {
+    "learner_id": "L220",
+    "level": "intermediate",
+    "known_topics": [
+      "rag_fundamentals",
+      "evaluation",
+      "safety_and_guardrails",
+      "chain_of_thought"
+    ],
+    "weak_topics": [
+      "prompt_basics",
+      "few_shot_prompting",
+      "embeddings",
+      "tool_use"
+    ],
+    "mastery": {
+      "prompt_basics": 0.1,
+      "few_shot_prompting": 0.33,
+      "chain_of_thought": 0.92,
+      "tool_use": 0.34,
+      "rag_fundamentals": 0.9,
+      "embeddings": 0.31,
+      "evaluation": 0.71,
+      "safety_and_guardrails": 0.88
+    }
+  },
+  {
+    "learner_id": "L221",
+    "level": "intermediate",
+    "known_topics": [
+      "rag_fundamentals",
+      "tool_use",
+      "prompt_basics"
+    ],
+    "weak_topics": [
+      "chain_of_thought",
+      "few_shot_prompting"
+    ],
+    "mastery": {
+      "prompt_basics": 0.91,
+      "few_shot_prompting": 0.12,
+      "chain_of_thought": 0.29,
+      "tool_use": 0.82,
+      "rag_fundamentals": 0.78,
+      "embeddings": 0.56,
+      "evaluation": 0.45,
+      "safety_and_guardrails": 0.4
+    }
+  },
+  {
+    "learner_id": "L222",
+    "level": "beginner",
+    "known_topics": [
+      "rag_fundamentals",
+      "tool_use",
+      "few_shot_prompting",
+      "embeddings"
+    ],
+    "weak_topics": [
+      "prompt_basics",
+      "safety_and_guardrails",
+      "chain_of_thought",
+      "evaluation"
+    ],
+    "mastery": {
+      "prompt_basics": 0.15,
+      "few_shot_prompting": 0.71,
+      "chain_of_thought": 0.31,
+      "tool_use": 0.77,
+      "rag_fundamentals": 0.85,
+      "embeddings": 0.95,
+      "evaluation": 0.06,
+      "safety_and_guardrails": 0.23
+    }
+  },
+  {
+    "learner_id": "L223",
+    "level": "intermediate",
+    "known_topics": [
+      "chain_of_thought",
+      "evaluation",
+      "few_shot_prompting"
+    ],
+    "weak_topics": [
+      "prompt_basics",
+      "safety_and_guardrails"
+    ],
+    "mastery": {
+      "prompt_basics": 0.26,
+      "few_shot_prompting": 0.7,
+      "chain_of_thought": 0.93,
+      "tool_use": 0.51,
+      "rag_fundamentals": 0.54,
+      "embeddings": 0.55,
+      "evaluation": 0.87,
+      "safety_and_guardrails": 0.16
+    }
+  },
+  {
+    "learner_id": "L224",
+    "level": "beginner",
+    "known_topics": [
+      "evaluation",
+      "few_shot_prompting",
+      "tool_use",
+      "safety_and_guardrails"
+    ],
+    "weak_topics": [
+      "prompt_basics",
+      "chain_of_thought",
+      "rag_fundamentals"
+    ],
+    "mastery": {
+      "prompt_basics": 0.15,
+      "few_shot_prompting": 0.87,
+      "chain_of_thought": 0.22,
+      "tool_use": 0.75,
+      "rag_fundamentals": 0.25,
+      "embeddings": 0.48,
+      "evaluation": 0.89,
+      "safety_and_guardrails": 0.74
+    }
+  },
+  {
+    "learner_id": "L225",
+    "level": "advanced",
+    "known_topics": [
+      "evaluation",
+      "embeddings",
+      "few_shot_prompting"
+    ],
+    "weak_topics": [
+      "chain_of_thought",
+      "prompt_basics",
+      "safety_and_guardrails",
+      "tool_use"
+    ],
+    "mastery": {
+      "prompt_basics": 0.23,
+      "few_shot_prompting": 0.78,
+      "chain_of_thought": 0.18,
+      "tool_use": 0.25,
+      "rag_fundamentals": 0.5,
+      "embeddings": 0.9,
+      "evaluation": 0.94,
+      "safety_and_guardrails": 0.27
+    }
+  },
+  {
+    "learner_id": "L226",
+    "level": "advanced",
+    "known_topics": [
+      "safety_and_guardrails",
+      "tool_use",
+      "prompt_basics",
+      "evaluation"
+    ],
+    "weak_topics": [
+      "embeddings",
+      "rag_fundamentals",
+      "chain_of_thought"
+    ],
+    "mastery": {
+      "prompt_basics": 0.76,
+      "few_shot_prompting": 0.44,
+      "chain_of_thought": 0.06,
+      "tool_use": 0.76,
+      "rag_fundamentals": 0.19,
+      "embeddings": 0.3,
+      "evaluation": 0.72,
+      "safety_and_guardrails": 0.8
+    }
+  },
+  {
+    "learner_id": "L227",
+    "level": "advanced",
+    "known_topics": [
+      "chain_of_thought",
+      "prompt_basics"
+    ],
+    "weak_topics": [
+      "few_shot_prompting",
+      "rag_fundamentals",
+      "safety_and_guardrails",
+      "evaluation"
+    ],
+    "mastery": {
+      "prompt_basics": 0.87,
+      "few_shot_prompting": 0.32,
+      "chain_of_thought": 0.92,
+      "tool_use": 0.58,
+      "rag_fundamentals": 0.28,
+      "embeddings": 0.44,
+      "evaluation": 0.29,
+      "safety_and_guardrails": 0.26
+    }
+  },
+  {
+    "learner_id": "L228",
+    "level": "intermediate",
+    "known_topics": [
+      "chain_of_thought",
+      "embeddings",
+      "evaluation",
+      "tool_use"
+    ],
+    "weak_topics": [
+      "safety_and_guardrails",
+      "few_shot_prompting",
+      "rag_fundamentals",
+      "prompt_basics"
+    ],
+    "mastery": {
+      "prompt_basics": 0.35,
+      "few_shot_prompting": 0.23,
+      "chain_of_thought": 0.94,
+      "tool_use": 0.92,
+      "rag_fundamentals": 0.23,
+      "embeddings": 0.88,
+      "evaluation": 0.83,
+      "safety_and_guardrails": 0.3
+    }
+  },
+  {
+    "learner_id": "L229",
+    "level": "advanced",
+    "known_topics": [
+      "chain_of_thought",
+      "prompt_basics",
+      "evaluation",
+      "rag_fundamentals"
+    ],
+    "weak_topics": [
+      "tool_use",
+      "embeddings",
+      "few_shot_prompting"
+    ],
+    "mastery": {
+      "prompt_basics": 0.89,
+      "few_shot_prompting": 0.21,
+      "chain_of_thought": 0.86,
+      "tool_use": 0.13,
+      "rag_fundamentals": 0.72,
+      "embeddings": 0.14,
+      "evaluation": 0.77,
+      "safety_and_guardrails": 0.46
+    }
+  },
+  {
+    "learner_id": "L230",
+    "level": "advanced",
+    "known_topics": [
+      "rag_fundamentals",
+      "prompt_basics",
+      "chain_of_thought",
+      "tool_use"
+    ],
+    "weak_topics": [
+      "embeddings",
+      "evaluation"
+    ],
+    "mastery": {
+      "prompt_basics": 0.72,
+      "few_shot_prompting": 0.48,
+      "chain_of_thought": 0.84,
+      "tool_use": 0.8,
+      "rag_fundamentals": 0.75,
+      "embeddings": 0.18,
+      "evaluation": 0.32,
+      "safety_and_guardrails": 0.52
+    }
+  },
+  {
+    "learner_id": "L231",
+    "level": "advanced",
+    "known_topics": [
+      "chain_of_thought",
+      "few_shot_prompting",
+      "safety_and_guardrails"
+    ],
+    "weak_topics": [
+      "embeddings",
+      "tool_use",
+      "rag_fundamentals"
+    ],
+    "mastery": {
+      "prompt_basics": 0.57,
+      "few_shot_prompting": 0.94,
+      "chain_of_thought": 0.8,
+      "tool_use": 0.27,
+      "rag_fundamentals": 0.21,
+      "embeddings": 0.23,
+      "evaluation": 0.44,
+      "safety_and_guardrails": 0.75
+    }
+  },
+  {
+    "learner_id": "L232",
+    "level": "intermediate",
+    "known_topics": [
+      "few_shot_prompting",
+      "evaluation",
+      "rag_fundamentals"
+    ],
+    "weak_topics": [
+      "embeddings",
+      "chain_of_thought"
+    ],
+    "mastery": {
+      "prompt_basics": 0.6,
+      "few_shot_prompting": 0.83,
+      "chain_of_thought": 0.32,
+      "tool_use": 0.52,
+      "rag_fundamentals": 0.87,
+      "embeddings": 0.08,
+      "evaluation": 0.81,
+      "safety_and_guardrails": 0.57
+    }
+  },
+  {
+    "learner_id": "L233",
+    "level": "beginner",
+    "known_topics": [
+      "safety_and_guardrails",
+      "rag_fundamentals",
+      "embeddings"
+    ],
+    "weak_topics": [
+      "few_shot_prompting",
+      "evaluation",
+      "tool_use"
+    ],
+    "mastery": {
+      "prompt_basics": 0.46,
+      "few_shot_prompting": 0.34,
+      "chain_of_thought": 0.48,
+      "tool_use": 0.3,
+      "rag_fundamentals": 0.82,
+      "embeddings": 0.89,
+      "evaluation": 0.07,
+      "safety_and_guardrails": 0.94
+    }
+  },
+  {
+    "learner_id": "L234",
+    "level": "beginner",
+    "known_topics": [
+      "safety_and_guardrails",
+      "chain_of_thought"
+    ],
+    "weak_topics": [
+      "tool_use",
+      "rag_fundamentals",
+      "prompt_basics",
+      "embeddings"
+    ],
+    "mastery": {
+      "prompt_basics": 0.1,
+      "few_shot_prompting": 0.43,
+      "chain_of_thought": 0.87,
+      "tool_use": 0.22,
+      "rag_fundamentals": 0.12,
+      "embeddings": 0.26,
+      "evaluation": 0.55,
+      "safety_and_guardrails": 0.74
+    }
+  },
+  {
+    "learner_id": "L235",
+    "level": "advanced",
+    "known_topics": [
+      "embeddings",
+      "tool_use",
+      "rag_fundamentals"
+    ],
+    "weak_topics": [
+      "prompt_basics",
+      "chain_of_thought",
+      "safety_and_guardrails",
+      "evaluation"
+    ],
+    "mastery": {
+      "prompt_basics": 0.25,
+      "few_shot_prompting": 0.59,
+      "chain_of_thought": 0.17,
+      "tool_use": 0.88,
+      "rag_fundamentals": 0.72,
+      "embeddings": 0.87,
+      "evaluation": 0.24,
+      "safety_and_guardrails": 0.08
+    }
+  },
+  {
+    "learner_id": "L236",
+    "level": "intermediate",
+    "known_topics": [
+      "embeddings",
+      "safety_and_guardrails",
+      "tool_use",
+      "chain_of_thought"
+    ],
+    "weak_topics": [
+      "prompt_basics",
+      "rag_fundamentals",
+      "evaluation"
+    ],
+    "mastery": {
+      "prompt_basics": 0.07,
+      "few_shot_prompting": 0.53,
+      "chain_of_thought": 0.7,
+      "tool_use": 0.81,
+      "rag_fundamentals": 0.2,
+      "embeddings": 0.81,
+      "evaluation": 0.16,
+      "safety_and_guardrails": 0.92
+    }
+  },
+  {
+    "learner_id": "L237",
+    "level": "intermediate",
+    "known_topics": [
+      "prompt_basics",
+      "embeddings",
+      "evaluation"
+    ],
+    "weak_topics": [
+      "safety_and_guardrails",
+      "rag_fundamentals",
+      "few_shot_prompting"
+    ],
+    "mastery": {
+      "prompt_basics": 0.91,
+      "few_shot_prompting": 0.23,
+      "chain_of_thought": 0.46,
+      "tool_use": 0.45,
+      "rag_fundamentals": 0.33,
+      "embeddings": 0.77,
+      "evaluation": 0.81,
+      "safety_and_guardrails": 0.28
+    }
+  },
+  {
+    "learner_id": "L238",
+    "level": "advanced",
+    "known_topics": [
+      "rag_fundamentals",
+      "few_shot_prompting"
+    ],
+    "weak_topics": [
+      "embeddings",
+      "safety_and_guardrails",
+      "tool_use"
+    ],
+    "mastery": {
+      "prompt_basics": 0.56,
+      "few_shot_prompting": 0.79,
+      "chain_of_thought": 0.58,
+      "tool_use": 0.26,
+      "rag_fundamentals": 0.77,
+      "embeddings": 0.05,
+      "evaluation": 0.59,
+      "safety_and_guardrails": 0.08
+    }
+  },
+  {
+    "learner_id": "L239",
+    "level": "advanced",
+    "known_topics": [
+      "prompt_basics",
+      "embeddings",
+      "chain_of_thought"
+    ],
+    "weak_topics": [
+      "safety_and_guardrails",
+      "few_shot_prompting"
+    ],
+    "mastery": {
+      "prompt_basics": 0.72,
+      "few_shot_prompting": 0.12,
+      "chain_of_thought": 0.87,
+      "tool_use": 0.46,
+      "rag_fundamentals": 0.52,
+      "embeddings": 0.82,
+      "evaluation": 0.51,
+      "safety_and_guardrails": 0.18
+    }
+  },
+  {
+    "learner_id": "L240",
+    "level": "advanced",
+    "known_topics": [
+      "prompt_basics",
+      "rag_fundamentals"
+    ],
+    "weak_topics": [
+      "few_shot_prompting",
+      "evaluation"
+    ],
+    "mastery": {
+      "prompt_basics": 0.88,
+      "few_shot_prompting": 0.14,
+      "chain_of_thought": 0.55,
+      "tool_use": 0.59,
+      "rag_fundamentals": 0.87,
+      "embeddings": 0.44,
+      "evaluation": 0.27,
+      "safety_and_guardrails": 0.46
+    }
+  },
+  {
+    "learner_id": "L241",
+    "level": "advanced",
+    "known_topics": [
+      "safety_and_guardrails",
+      "evaluation",
+      "tool_use"
+    ],
+    "weak_topics": [
+      "embeddings",
+      "chain_of_thought"
+    ],
+    "mastery": {
+      "prompt_basics": 0.54,
+      "few_shot_prompting": 0.43,
+      "chain_of_thought": 0.06,
+      "tool_use": 0.71,
+      "rag_fundamentals": 0.46,
+      "embeddings": 0.33,
+      "evaluation": 0.86,
+      "safety_and_guardrails": 0.89
+    }
+  },
+  {
+    "learner_id": "L242",
+    "level": "beginner",
+    "known_topics": [
+      "safety_and_guardrails",
+      "embeddings"
+    ],
+    "weak_topics": [
+      "few_shot_prompting",
+      "evaluation"
+    ],
+    "mastery": {
+      "prompt_basics": 0.45,
+      "few_shot_prompting": 0.31,
+      "chain_of_thought": 0.42,
+      "tool_use": 0.41,
+      "rag_fundamentals": 0.5,
+      "embeddings": 0.84,
+      "evaluation": 0.26,
+      "safety_and_guardrails": 0.74
+    }
+  },
+  {
+    "learner_id": "L243",
+    "level": "advanced",
+    "known_topics": [
+      "embeddings",
+      "safety_and_guardrails",
+      "chain_of_thought",
+      "tool_use"
+    ],
+    "weak_topics": [
+      "evaluation",
+      "few_shot_prompting",
+      "prompt_basics"
+    ],
+    "mastery": {
+      "prompt_basics": 0.19,
+      "few_shot_prompting": 0.18,
+      "chain_of_thought": 0.92,
+      "tool_use": 0.95,
+      "rag_fundamentals": 0.46,
+      "embeddings": 0.86,
+      "evaluation": 0.23,
+      "safety_and_guardrails": 0.89
+    }
+  },
+  {
+    "learner_id": "L244",
+    "level": "beginner",
+    "known_topics": [
+      "safety_and_guardrails",
+      "evaluation",
+      "rag_fundamentals",
+      "few_shot_prompting"
+    ],
+    "weak_topics": [
+      "prompt_basics",
+      "embeddings"
+    ],
+    "mastery": {
+      "prompt_basics": 0.1,
+      "few_shot_prompting": 0.8,
+      "chain_of_thought": 0.54,
+      "tool_use": 0.49,
+      "rag_fundamentals": 0.71,
+      "embeddings": 0.14,
+      "evaluation": 0.77,
+      "safety_and_guardrails": 0.91
+    }
+  },
+  {
+    "learner_id": "L245",
+    "level": "beginner",
+    "known_topics": [
+      "evaluation",
+      "prompt_basics",
+      "safety_and_guardrails",
+      "few_shot_prompting"
+    ],
+    "weak_topics": [
+      "rag_fundamentals",
+      "embeddings"
+    ],
+    "mastery": {
+      "prompt_basics": 0.86,
+      "few_shot_prompting": 0.93,
+      "chain_of_thought": 0.57,
+      "tool_use": 0.41,
+      "rag_fundamentals": 0.1,
+      "embeddings": 0.14,
+      "evaluation": 0.89,
+      "safety_and_guardrails": 0.84
+    }
+  },
+  {
+    "learner_id": "L246",
+    "level": "intermediate",
+    "known_topics": [
+      "evaluation",
+      "rag_fundamentals",
+      "few_shot_prompting"
+    ],
+    "weak_topics": [
+      "embeddings",
+      "chain_of_thought"
+    ],
+    "mastery": {
+      "prompt_basics": 0.52,
+      "few_shot_prompting": 0.92,
+      "chain_of_thought": 0.27,
+      "tool_use": 0.52,
+      "rag_fundamentals": 0.71,
+      "embeddings": 0.12,
+      "evaluation": 0.87,
+      "safety_and_guardrails": 0.57
+    }
+  },
+  {
+    "learner_id": "L247",
+    "level": "advanced",
+    "known_topics": [
+      "rag_fundamentals",
+      "few_shot_prompting",
+      "tool_use",
+      "safety_and_guardrails"
+    ],
+    "weak_topics": [
+      "chain_of_thought",
+      "embeddings",
+      "evaluation",
+      "prompt_basics"
+    ],
+    "mastery": {
+      "prompt_basics": 0.18,
+      "few_shot_prompting": 0.77,
+      "chain_of_thought": 0.35,
+      "tool_use": 0.81,
+      "rag_fundamentals": 0.9,
+      "embeddings": 0.34,
+      "evaluation": 0.19,
+      "safety_and_guardrails": 0.8
+    }
+  },
+  {
+    "learner_id": "L248",
+    "level": "intermediate",
+    "known_topics": [
+      "prompt_basics",
+      "embeddings",
+      "rag_fundamentals"
+    ],
+    "weak_topics": [
+      "tool_use",
+      "chain_of_thought",
+      "safety_and_guardrails",
+      "evaluation"
+    ],
+    "mastery": {
+      "prompt_basics": 0.94,
+      "few_shot_prompting": 0.56,
+      "chain_of_thought": 0.22,
+      "tool_use": 0.19,
+      "rag_fundamentals": 0.78,
+      "embeddings": 0.78,
+      "evaluation": 0.34,
+      "safety_and_guardrails": 0.17
+    }
+  },
+  {
+    "learner_id": "L249",
+    "level": "advanced",
+    "known_topics": [
+      "few_shot_prompting",
+      "chain_of_thought",
+      "safety_and_guardrails",
+      "evaluation"
+    ],
+    "weak_topics": [
+      "tool_use",
+      "rag_fundamentals",
+      "embeddings"
+    ],
+    "mastery": {
+      "prompt_basics": 0.52,
+      "few_shot_prompting": 0.82,
+      "chain_of_thought": 0.81,
+      "tool_use": 0.07,
+      "rag_fundamentals": 0.13,
+      "embeddings": 0.09,
+      "evaluation": 0.77,
+      "safety_and_guardrails": 0.92
+    }
+  },
+  {
+    "learner_id": "L250",
+    "level": "intermediate",
+    "known_topics": [
+      "tool_use",
+      "evaluation",
+      "chain_of_thought"
+    ],
+    "weak_topics": [
+      "safety_and_guardrails",
+      "rag_fundamentals",
+      "embeddings",
+      "prompt_basics"
+    ],
+    "mastery": {
+      "prompt_basics": 0.05,
+      "few_shot_prompting": 0.48,
+      "chain_of_thought": 0.76,
+      "tool_use": 0.91,
+      "rag_fundamentals": 0.08,
+      "embeddings": 0.33,
+      "evaluation": 0.86,
+      "safety_and_guardrails": 0.1
+    }
+  },
+  {
+    "learner_id": "L251",
+    "level": "advanced",
+    "known_topics": [
+      "prompt_basics",
+      "evaluation"
+    ],
+    "weak_topics": [
+      "few_shot_prompting",
+      "tool_use",
+      "chain_of_thought"
+    ],
+    "mastery": {
+      "prompt_basics": 0.84,
+      "few_shot_prompting": 0.17,
+      "chain_of_thought": 0.33,
+      "tool_use": 0.2,
+      "rag_fundamentals": 0.58,
+      "embeddings": 0.57,
+      "evaluation": 0.77,
+      "safety_and_guardrails": 0.56
+    }
+  },
+  {
+    "learner_id": "L252",
+    "level": "intermediate",
+    "known_topics": [
+      "tool_use",
+      "safety_and_guardrails",
+      "few_shot_prompting",
+      "prompt_basics"
+    ],
+    "weak_topics": [
+      "chain_of_thought",
+      "rag_fundamentals",
+      "evaluation",
+      "embeddings"
+    ],
+    "mastery": {
+      "prompt_basics": 0.95,
+      "few_shot_prompting": 0.82,
+      "chain_of_thought": 0.09,
+      "tool_use": 0.83,
+      "rag_fundamentals": 0.15,
+      "embeddings": 0.22,
+      "evaluation": 0.21,
+      "safety_and_guardrails": 0.81
+    }
+  },
+  {
+    "learner_id": "L253",
+    "level": "intermediate",
+    "known_topics": [
+      "chain_of_thought",
+      "evaluation"
+    ],
+    "weak_topics": [
+      "prompt_basics",
+      "safety_and_guardrails",
+      "rag_fundamentals"
+    ],
+    "mastery": {
+      "prompt_basics": 0.27,
+      "few_shot_prompting": 0.54,
+      "chain_of_thought": 0.9,
+      "tool_use": 0.48,
+      "rag_fundamentals": 0.25,
+      "embeddings": 0.56,
+      "evaluation": 0.95,
+      "safety_and_guardrails": 0.2
+    }
+  },
+  {
+    "learner_id": "L254",
+    "level": "beginner",
+    "known_topics": [
+      "embeddings",
+      "tool_use",
+      "few_shot_prompting",
+      "prompt_basics"
+    ],
+    "weak_topics": [
+      "safety_and_guardrails",
+      "evaluation",
+      "rag_fundamentals"
+    ],
+    "mastery": {
+      "prompt_basics": 0.7,
+      "few_shot_prompting": 0.74,
+      "chain_of_thought": 0.57,
+      "tool_use": 0.94,
+      "rag_fundamentals": 0.07,
+      "embeddings": 0.9,
+      "evaluation": 0.13,
+      "safety_and_guardrails": 0.24
+    }
+  },
+  {
+    "learner_id": "L255",
+    "level": "intermediate",
+    "known_topics": [
+      "prompt_basics",
+      "embeddings",
+      "safety_and_guardrails",
+      "tool_use"
+    ],
+    "weak_topics": [
+      "rag_fundamentals",
+      "chain_of_thought"
+    ],
+    "mastery": {
+      "prompt_basics": 0.85,
+      "few_shot_prompting": 0.45,
+      "chain_of_thought": 0.26,
+      "tool_use": 0.77,
+      "rag_fundamentals": 0.12,
+      "embeddings": 0.72,
+      "evaluation": 0.6,
+      "safety_and_guardrails": 0.89
+    }
+  },
+  {
+    "learner_id": "L256",
+    "level": "advanced",
+    "known_topics": [
+      "rag_fundamentals",
+      "embeddings"
+    ],
+    "weak_topics": [
+      "evaluation",
+      "prompt_basics",
+      "chain_of_thought"
+    ],
+    "mastery": {
+      "prompt_basics": 0.16,
+      "few_shot_prompting": 0.49,
+      "chain_of_thought": 0.12,
+      "tool_use": 0.48,
+      "rag_fundamentals": 0.87,
+      "embeddings": 0.75,
+      "evaluation": 0.1,
+      "safety_and_guardrails": 0.52
+    }
+  },
+  {
+    "learner_id": "L257",
+    "level": "intermediate",
+    "known_topics": [
+      "prompt_basics",
+      "chain_of_thought",
+      "evaluation"
+    ],
+    "weak_topics": [
+      "embeddings",
+      "few_shot_prompting",
+      "rag_fundamentals"
+    ],
+    "mastery": {
+      "prompt_basics": 0.87,
+      "few_shot_prompting": 0.32,
+      "chain_of_thought": 0.82,
+      "tool_use": 0.46,
+      "rag_fundamentals": 0.21,
+      "embeddings": 0.07,
+      "evaluation": 0.94,
+      "safety_and_guardrails": 0.6
+    }
+  },
+  {
+    "learner_id": "L258",
+    "level": "intermediate",
+    "known_topics": [
+      "rag_fundamentals",
+      "few_shot_prompting",
+      "prompt_basics"
+    ],
+    "weak_topics": [
+      "safety_and_guardrails",
+      "tool_use"
+    ],
+    "mastery": {
+      "prompt_basics": 0.76,
+      "few_shot_prompting": 0.84,
+      "chain_of_thought": 0.51,
+      "tool_use": 0.35,
+      "rag_fundamentals": 0.77,
+      "embeddings": 0.6,
+      "evaluation": 0.53,
+      "safety_and_guardrails": 0.13
+    }
+  },
+  {
+    "learner_id": "L259",
+    "level": "advanced",
+    "known_topics": [
+      "evaluation",
+      "few_shot_prompting"
+    ],
+    "weak_topics": [
+      "safety_and_guardrails",
+      "chain_of_thought",
+      "tool_use",
+      "embeddings"
+    ],
+    "mastery": {
+      "prompt_basics": 0.44,
+      "few_shot_prompting": 0.76,
+      "chain_of_thought": 0.28,
+      "tool_use": 0.28,
+      "rag_fundamentals": 0.54,
+      "embeddings": 0.09,
+      "evaluation": 0.72,
+      "safety_and_guardrails": 0.24
+    }
+  }
+]

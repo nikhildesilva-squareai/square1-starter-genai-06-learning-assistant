@@ -1,0 +1,842 @@
+[
+  {
+    "id": "Q1001",
+    "topic": "prompt_basics",
+    "difficulty": "easy",
+    "question": "[easy] What does a system prompt set for a model?",
+    "answer": "Its role and behaviour"
+  },
+  {
+    "id": "Q1002",
+    "topic": "prompt_basics",
+    "difficulty": "easy",
+    "question": "[easy] Which message role carries the user's request?",
+    "answer": "user"
+  },
+  {
+    "id": "Q1003",
+    "topic": "prompt_basics",
+    "difficulty": "easy",
+    "question": "[easy] What is a 'token' roughly equivalent to?",
+    "answer": "A chunk of text"
+  },
+  {
+    "id": "Q1004",
+    "topic": "prompt_basics",
+    "difficulty": "easy",
+    "question": "[easy] Why give a model an explicit output format?",
+    "answer": "To get parseable results"
+  },
+  {
+    "id": "Q1005",
+    "topic": "prompt_basics",
+    "difficulty": "easy",
+    "question": "[easy] What is a zero-shot prompt?",
+    "answer": "A prompt with no examples"
+  },
+  {
+    "id": "Q1006",
+    "topic": "prompt_basics",
+    "difficulty": "medium",
+    "question": "[medium] What does a system prompt set for a model?",
+    "answer": "Its role and behaviour"
+  },
+  {
+    "id": "Q1007",
+    "topic": "prompt_basics",
+    "difficulty": "medium",
+    "question": "[medium] Which message role carries the user's request?",
+    "answer": "user"
+  },
+  {
+    "id": "Q1008",
+    "topic": "prompt_basics",
+    "difficulty": "medium",
+    "question": "[medium] What is a 'token' roughly equivalent to?",
+    "answer": "A chunk of text"
+  },
+  {
+    "id": "Q1009",
+    "topic": "prompt_basics",
+    "difficulty": "medium",
+    "question": "[medium] Why give a model an explicit output format?",
+    "answer": "To get parseable results"
+  },
+  {
+    "id": "Q1010",
+    "topic": "prompt_basics",
+    "difficulty": "medium",
+    "question": "[medium] What is a zero-shot prompt?",
+    "answer": "A prompt with no examples"
+  },
+  {
+    "id": "Q1011",
+    "topic": "prompt_basics",
+    "difficulty": "hard",
+    "question": "[hard] What does a system prompt set for a model?",
+    "answer": "Its role and behaviour"
+  },
+  {
+    "id": "Q1012",
+    "topic": "prompt_basics",
+    "difficulty": "hard",
+    "question": "[hard] Which message role carries the user's request?",
+    "answer": "user"
+  },
+  {
+    "id": "Q1013",
+    "topic": "prompt_basics",
+    "difficulty": "hard",
+    "question": "[hard] What is a 'token' roughly equivalent to?",
+    "answer": "A chunk of text"
+  },
+  {
+    "id": "Q1014",
+    "topic": "prompt_basics",
+    "difficulty": "hard",
+    "question": "[hard] Why give a model an explicit output format?",
+    "answer": "To get parseable results"
+  },
+  {
+    "id": "Q1015",
+    "topic": "prompt_basics",
+    "difficulty": "hard",
+    "question": "[hard] What is a zero-shot prompt?",
+    "answer": "A prompt with no examples"
+  },
+  {
+    "id": "Q1016",
+    "topic": "few_shot_prompting",
+    "difficulty": "easy",
+    "question": "[easy] What does adding examples to a prompt do?",
+    "answer": "Demonstrates the pattern"
+  },
+  {
+    "id": "Q1017",
+    "topic": "few_shot_prompting",
+    "difficulty": "easy",
+    "question": "[easy] How many examples is 'few-shot'?",
+    "answer": "A small handful"
+  },
+  {
+    "id": "Q1018",
+    "topic": "few_shot_prompting",
+    "difficulty": "easy",
+    "question": "[easy] Where should few-shot examples go?",
+    "answer": "Before the real input"
+  },
+  {
+    "id": "Q1019",
+    "topic": "few_shot_prompting",
+    "difficulty": "easy",
+    "question": "[easy] Why keep example format consistent?",
+    "answer": "The model copies the pattern"
+  },
+  {
+    "id": "Q1020",
+    "topic": "few_shot_prompting",
+    "difficulty": "easy",
+    "question": "[easy] What risks too many examples?",
+    "answer": "Wasted context window"
+  },
+  {
+    "id": "Q1021",
+    "topic": "few_shot_prompting",
+    "difficulty": "medium",
+    "question": "[medium] What does adding examples to a prompt do?",
+    "answer": "Demonstrates the pattern"
+  },
+  {
+    "id": "Q1022",
+    "topic": "few_shot_prompting",
+    "difficulty": "medium",
+    "question": "[medium] How many examples is 'few-shot'?",
+    "answer": "A small handful"
+  },
+  {
+    "id": "Q1023",
+    "topic": "few_shot_prompting",
+    "difficulty": "medium",
+    "question": "[medium] Where should few-shot examples go?",
+    "answer": "Before the real input"
+  },
+  {
+    "id": "Q1024",
+    "topic": "few_shot_prompting",
+    "difficulty": "medium",
+    "question": "[medium] Why keep example format consistent?",
+    "answer": "The model copies the pattern"
+  },
+  {
+    "id": "Q1025",
+    "topic": "few_shot_prompting",
+    "difficulty": "medium",
+    "question": "[medium] What risks too many examples?",
+    "answer": "Wasted context window"
+  },
+  {
+    "id": "Q1026",
+    "topic": "few_shot_prompting",
+    "difficulty": "hard",
+    "question": "[hard] What does adding examples to a prompt do?",
+    "answer": "Demonstrates the pattern"
+  },
+  {
+    "id": "Q1027",
+    "topic": "few_shot_prompting",
+    "difficulty": "hard",
+    "question": "[hard] How many examples is 'few-shot'?",
+    "answer": "A small handful"
+  },
+  {
+    "id": "Q1028",
+    "topic": "few_shot_prompting",
+    "difficulty": "hard",
+    "question": "[hard] Where should few-shot examples go?",
+    "answer": "Before the real input"
+  },
+  {
+    "id": "Q1029",
+    "topic": "few_shot_prompting",
+    "difficulty": "hard",
+    "question": "[hard] Why keep example format consistent?",
+    "answer": "The model copies the pattern"
+  },
+  {
+    "id": "Q1030",
+    "topic": "few_shot_prompting",
+    "difficulty": "hard",
+    "question": "[hard] What risks too many examples?",
+    "answer": "Wasted context window"
+  },
+  {
+    "id": "Q1031",
+    "topic": "chain_of_thought",
+    "difficulty": "easy",
+    "question": "[easy] What does chain-of-thought elicit?",
+    "answer": "Step-by-step reasoning"
+  },
+  {
+    "id": "Q1032",
+    "topic": "chain_of_thought",
+    "difficulty": "easy",
+    "question": "[easy] When does CoT help most?",
+    "answer": "Multi-step reasoning tasks"
+  },
+  {
+    "id": "Q1033",
+    "topic": "chain_of_thought",
+    "difficulty": "easy",
+    "question": "[easy] What phrase often triggers CoT?",
+    "answer": "Let's think step by step"
+  },
+  {
+    "id": "Q1034",
+    "topic": "chain_of_thought",
+    "difficulty": "easy",
+    "question": "[easy] What is a downside of CoT?",
+    "answer": "More tokens and latency"
+  },
+  {
+    "id": "Q1035",
+    "topic": "chain_of_thought",
+    "difficulty": "easy",
+    "question": "[easy] How do you hide the reasoning?",
+    "answer": "Ask for a final answer only"
+  },
+  {
+    "id": "Q1036",
+    "topic": "chain_of_thought",
+    "difficulty": "medium",
+    "question": "[medium] What does chain-of-thought elicit?",
+    "answer": "Step-by-step reasoning"
+  },
+  {
+    "id": "Q1037",
+    "topic": "chain_of_thought",
+    "difficulty": "medium",
+    "question": "[medium] When does CoT help most?",
+    "answer": "Multi-step reasoning tasks"
+  },
+  {
+    "id": "Q1038",
+    "topic": "chain_of_thought",
+    "difficulty": "medium",
+    "question": "[medium] What phrase often triggers CoT?",
+    "answer": "Let's think step by step"
+  },
+  {
+    "id": "Q1039",
+    "topic": "chain_of_thought",
+    "difficulty": "medium",
+    "question": "[medium] What is a downside of CoT?",
+    "answer": "More tokens and latency"
+  },
+  {
+    "id": "Q1040",
+    "topic": "chain_of_thought",
+    "difficulty": "medium",
+    "question": "[medium] How do you hide the reasoning?",
+    "answer": "Ask for a final answer only"
+  },
+  {
+    "id": "Q1041",
+    "topic": "chain_of_thought",
+    "difficulty": "hard",
+    "question": "[hard] What does chain-of-thought elicit?",
+    "answer": "Step-by-step reasoning"
+  },
+  {
+    "id": "Q1042",
+    "topic": "chain_of_thought",
+    "difficulty": "hard",
+    "question": "[hard] When does CoT help most?",
+    "answer": "Multi-step reasoning tasks"
+  },
+  {
+    "id": "Q1043",
+    "topic": "chain_of_thought",
+    "difficulty": "hard",
+    "question": "[hard] What phrase often triggers CoT?",
+    "answer": "Let's think step by step"
+  },
+  {
+    "id": "Q1044",
+    "topic": "chain_of_thought",
+    "difficulty": "hard",
+    "question": "[hard] What is a downside of CoT?",
+    "answer": "More tokens and latency"
+  },
+  {
+    "id": "Q1045",
+    "topic": "chain_of_thought",
+    "difficulty": "hard",
+    "question": "[hard] How do you hide the reasoning?",
+    "answer": "Ask for a final answer only"
+  },
+  {
+    "id": "Q1046",
+    "topic": "tool_use",
+    "difficulty": "easy",
+    "question": "[easy] What is a 'tool' to a model?",
+    "answer": "A function it can call"
+  },
+  {
+    "id": "Q1047",
+    "topic": "tool_use",
+    "difficulty": "easy",
+    "question": "[easy] What does a tool schema define?",
+    "answer": "The tool's inputs"
+  },
+  {
+    "id": "Q1048",
+    "topic": "tool_use",
+    "difficulty": "easy",
+    "question": "[easy] Who executes the tool call?",
+    "answer": "Your application"
+  },
+  {
+    "id": "Q1049",
+    "topic": "tool_use",
+    "difficulty": "easy",
+    "question": "[easy] What is returned to the model after a call?",
+    "answer": "A tool result"
+  },
+  {
+    "id": "Q1050",
+    "topic": "tool_use",
+    "difficulty": "easy",
+    "question": "[easy] Why validate tool inputs?",
+    "answer": "The model can hallucinate args"
+  },
+  {
+    "id": "Q1051",
+    "topic": "tool_use",
+    "difficulty": "medium",
+    "question": "[medium] What is a 'tool' to a model?",
+    "answer": "A function it can call"
+  },
+  {
+    "id": "Q1052",
+    "topic": "tool_use",
+    "difficulty": "medium",
+    "question": "[medium] What does a tool schema define?",
+    "answer": "The tool's inputs"
+  },
+  {
+    "id": "Q1053",
+    "topic": "tool_use",
+    "difficulty": "medium",
+    "question": "[medium] Who executes the tool call?",
+    "answer": "Your application"
+  },
+  {
+    "id": "Q1054",
+    "topic": "tool_use",
+    "difficulty": "medium",
+    "question": "[medium] What is returned to the model after a call?",
+    "answer": "A tool result"
+  },
+  {
+    "id": "Q1055",
+    "topic": "tool_use",
+    "difficulty": "medium",
+    "question": "[medium] Why validate tool inputs?",
+    "answer": "The model can hallucinate args"
+  },
+  {
+    "id": "Q1056",
+    "topic": "tool_use",
+    "difficulty": "hard",
+    "question": "[hard] What is a 'tool' to a model?",
+    "answer": "A function it can call"
+  },
+  {
+    "id": "Q1057",
+    "topic": "tool_use",
+    "difficulty": "hard",
+    "question": "[hard] What does a tool schema define?",
+    "answer": "The tool's inputs"
+  },
+  {
+    "id": "Q1058",
+    "topic": "tool_use",
+    "difficulty": "hard",
+    "question": "[hard] Who executes the tool call?",
+    "answer": "Your application"
+  },
+  {
+    "id": "Q1059",
+    "topic": "tool_use",
+    "difficulty": "hard",
+    "question": "[hard] What is returned to the model after a call?",
+    "answer": "A tool result"
+  },
+  {
+    "id": "Q1060",
+    "topic": "tool_use",
+    "difficulty": "hard",
+    "question": "[hard] Why validate tool inputs?",
+    "answer": "The model can hallucinate args"
+  },
+  {
+    "id": "Q1061",
+    "topic": "rag_fundamentals",
+    "difficulty": "easy",
+    "question": "[easy] What does RAG stand for?",
+    "answer": "Retrieval-augmented generation"
+  },
+  {
+    "id": "Q1062",
+    "topic": "rag_fundamentals",
+    "difficulty": "easy",
+    "question": "[easy] Why retrieve before generating?",
+    "answer": "To ground the answer"
+  },
+  {
+    "id": "Q1063",
+    "topic": "rag_fundamentals",
+    "difficulty": "easy",
+    "question": "[easy] What is a 'chunk' in RAG?",
+    "answer": "A passage of source text"
+  },
+  {
+    "id": "Q1064",
+    "topic": "rag_fundamentals",
+    "difficulty": "easy",
+    "question": "[easy] What reduces hallucination in RAG?",
+    "answer": "Citing retrieved context"
+  },
+  {
+    "id": "Q1065",
+    "topic": "rag_fundamentals",
+    "difficulty": "easy",
+    "question": "[easy] What is the retriever's job?",
+    "answer": "Find relevant chunks"
+  },
+  {
+    "id": "Q1066",
+    "topic": "rag_fundamentals",
+    "difficulty": "medium",
+    "question": "[medium] What does RAG stand for?",
+    "answer": "Retrieval-augmented generation"
+  },
+  {
+    "id": "Q1067",
+    "topic": "rag_fundamentals",
+    "difficulty": "medium",
+    "question": "[medium] Why retrieve before generating?",
+    "answer": "To ground the answer"
+  },
+  {
+    "id": "Q1068",
+    "topic": "rag_fundamentals",
+    "difficulty": "medium",
+    "question": "[medium] What is a 'chunk' in RAG?",
+    "answer": "A passage of source text"
+  },
+  {
+    "id": "Q1069",
+    "topic": "rag_fundamentals",
+    "difficulty": "medium",
+    "question": "[medium] What reduces hallucination in RAG?",
+    "answer": "Citing retrieved context"
+  },
+  {
+    "id": "Q1070",
+    "topic": "rag_fundamentals",
+    "difficulty": "medium",
+    "question": "[medium] What is the retriever's job?",
+    "answer": "Find relevant chunks"
+  },
+  {
+    "id": "Q1071",
+    "topic": "rag_fundamentals",
+    "difficulty": "hard",
+    "question": "[hard] What does RAG stand for?",
+    "answer": "Retrieval-augmented generation"
+  },
+  {
+    "id": "Q1072",
+    "topic": "rag_fundamentals",
+    "difficulty": "hard",
+    "question": "[hard] Why retrieve before generating?",
+    "answer": "To ground the answer"
+  },
+  {
+    "id": "Q1073",
+    "topic": "rag_fundamentals",
+    "difficulty": "hard",
+    "question": "[hard] What is a 'chunk' in RAG?",
+    "answer": "A passage of source text"
+  },
+  {
+    "id": "Q1074",
+    "topic": "rag_fundamentals",
+    "difficulty": "hard",
+    "question": "[hard] What reduces hallucination in RAG?",
+    "answer": "Citing retrieved context"
+  },
+  {
+    "id": "Q1075",
+    "topic": "rag_fundamentals",
+    "difficulty": "hard",
+    "question": "[hard] What is the retriever's job?",
+    "answer": "Find relevant chunks"
+  },
+  {
+    "id": "Q1076",
+    "topic": "embeddings",
+    "difficulty": "easy",
+    "question": "[easy] What is an embedding?",
+    "answer": "A vector for text"
+  },
+  {
+    "id": "Q1077",
+    "topic": "embeddings",
+    "difficulty": "easy",
+    "question": "[easy] What does cosine similarity measure?",
+    "answer": "Vector closeness"
+  },
+  {
+    "id": "Q1078",
+    "topic": "embeddings",
+    "difficulty": "easy",
+    "question": "[easy] Why store embeddings in a vector DB?",
+    "answer": "Fast similarity search"
+  },
+  {
+    "id": "Q1079",
+    "topic": "embeddings",
+    "difficulty": "easy",
+    "question": "[easy] What makes two texts 'similar' here?",
+    "answer": "Close vectors"
+  },
+  {
+    "id": "Q1080",
+    "topic": "embeddings",
+    "difficulty": "easy",
+    "question": "[easy] What dimension is an embedding?",
+    "answer": "A fixed length vector"
+  },
+  {
+    "id": "Q1081",
+    "topic": "embeddings",
+    "difficulty": "medium",
+    "question": "[medium] What is an embedding?",
+    "answer": "A vector for text"
+  },
+  {
+    "id": "Q1082",
+    "topic": "embeddings",
+    "difficulty": "medium",
+    "question": "[medium] What does cosine similarity measure?",
+    "answer": "Vector closeness"
+  },
+  {
+    "id": "Q1083",
+    "topic": "embeddings",
+    "difficulty": "medium",
+    "question": "[medium] Why store embeddings in a vector DB?",
+    "answer": "Fast similarity search"
+  },
+  {
+    "id": "Q1084",
+    "topic": "embeddings",
+    "difficulty": "medium",
+    "question": "[medium] What makes two texts 'similar' here?",
+    "answer": "Close vectors"
+  },
+  {
+    "id": "Q1085",
+    "topic": "embeddings",
+    "difficulty": "medium",
+    "question": "[medium] What dimension is an embedding?",
+    "answer": "A fixed length vector"
+  },
+  {
+    "id": "Q1086",
+    "topic": "embeddings",
+    "difficulty": "hard",
+    "question": "[hard] What is an embedding?",
+    "answer": "A vector for text"
+  },
+  {
+    "id": "Q1087",
+    "topic": "embeddings",
+    "difficulty": "hard",
+    "question": "[hard] What does cosine similarity measure?",
+    "answer": "Vector closeness"
+  },
+  {
+    "id": "Q1088",
+    "topic": "embeddings",
+    "difficulty": "hard",
+    "question": "[hard] Why store embeddings in a vector DB?",
+    "answer": "Fast similarity search"
+  },
+  {
+    "id": "Q1089",
+    "topic": "embeddings",
+    "difficulty": "hard",
+    "question": "[hard] What makes two texts 'similar' here?",
+    "answer": "Close vectors"
+  },
+  {
+    "id": "Q1090",
+    "topic": "embeddings",
+    "difficulty": "hard",
+    "question": "[hard] What dimension is an embedding?",
+    "answer": "A fixed length vector"
+  },
+  {
+    "id": "Q1091",
+    "topic": "evaluation",
+    "difficulty": "easy",
+    "question": "[easy] Why evaluate an LLM feature?",
+    "answer": "To catch regressions"
+  },
+  {
+    "id": "Q1092",
+    "topic": "evaluation",
+    "difficulty": "easy",
+    "question": "[easy] What is an eval set?",
+    "answer": "Test cases with expectations"
+  },
+  {
+    "id": "Q1093",
+    "topic": "evaluation",
+    "difficulty": "easy",
+    "question": "[easy] What is an LLM-as-judge?",
+    "answer": "A model grading outputs"
+  },
+  {
+    "id": "Q1094",
+    "topic": "evaluation",
+    "difficulty": "easy",
+    "question": "[easy] Why is accuracy alone risky?",
+    "answer": "It hides failure modes"
+  },
+  {
+    "id": "Q1095",
+    "topic": "evaluation",
+    "difficulty": "easy",
+    "question": "[easy] What is a golden answer?",
+    "answer": "A known-correct response"
+  },
+  {
+    "id": "Q1096",
+    "topic": "evaluation",
+    "difficulty": "medium",
+    "question": "[medium] Why evaluate an LLM feature?",
+    "answer": "To catch regressions"
+  },
+  {
+    "id": "Q1097",
+    "topic": "evaluation",
+    "difficulty": "medium",
+    "question": "[medium] What is an eval set?",
+    "answer": "Test cases with expectations"
+  },
+  {
+    "id": "Q1098",
+    "topic": "evaluation",
+    "difficulty": "medium",
+    "question": "[medium] What is an LLM-as-judge?",
+    "answer": "A model grading outputs"
+  },
+  {
+    "id": "Q1099",
+    "topic": "evaluation",
+    "difficulty": "medium",
+    "question": "[medium] Why is accuracy alone risky?",
+    "answer": "It hides failure modes"
+  },
+  {
+    "id": "Q1100",
+    "topic": "evaluation",
+    "difficulty": "medium",
+    "question": "[medium] What is a golden answer?",
+    "answer": "A known-correct response"
+  },
+  {
+    "id": "Q1101",
+    "topic": "evaluation",
+    "difficulty": "hard",
+    "question": "[hard] Why evaluate an LLM feature?",
+    "answer": "To catch regressions"
+  },
+  {
+    "id": "Q1102",
+    "topic": "evaluation",
+    "difficulty": "hard",
+    "question": "[hard] What is an eval set?",
+    "answer": "Test cases with expectations"
+  },
+  {
+    "id": "Q1103",
+    "topic": "evaluation",
+    "difficulty": "hard",
+    "question": "[hard] What is an LLM-as-judge?",
+    "answer": "A model grading outputs"
+  },
+  {
+    "id": "Q1104",
+    "topic": "evaluation",
+    "difficulty": "hard",
+    "question": "[hard] Why is accuracy alone risky?",
+    "answer": "It hides failure modes"
+  },
+  {
+    "id": "Q1105",
+    "topic": "evaluation",
+    "difficulty": "hard",
+    "question": "[hard] What is a golden answer?",
+    "answer": "A known-correct response"
+  },
+  {
+    "id": "Q1106",
+    "topic": "safety_and_guardrails",
+    "difficulty": "easy",
+    "question": "[easy] What is a prompt injection?",
+    "answer": "Malicious instructions in input"
+  },
+  {
+    "id": "Q1107",
+    "topic": "safety_and_guardrails",
+    "difficulty": "easy",
+    "question": "[easy] What is a guardrail?",
+    "answer": "A safety check on I/O"
+  },
+  {
+    "id": "Q1108",
+    "topic": "safety_and_guardrails",
+    "difficulty": "easy",
+    "question": "[easy] Why never trust user text as commands?",
+    "answer": "It can be injected"
+  },
+  {
+    "id": "Q1109",
+    "topic": "safety_and_guardrails",
+    "difficulty": "easy",
+    "question": "[easy] What is a refusal?",
+    "answer": "A model declining a request"
+  },
+  {
+    "id": "Q1110",
+    "topic": "safety_and_guardrails",
+    "difficulty": "easy",
+    "question": "[easy] Where do you filter unsafe output?",
+    "answer": "At the boundary"
+  },
+  {
+    "id": "Q1111",
+    "topic": "safety_and_guardrails",
+    "difficulty": "medium",
+    "question": "[medium] What is a prompt injection?",
+    "answer": "Malicious instructions in input"
+  },
+  {
+    "id": "Q1112",
+    "topic": "safety_and_guardrails",
+    "difficulty": "medium",
+    "question": "[medium] What is a guardrail?",
+    "answer": "A safety check on I/O"
+  },
+  {
+    "id": "Q1113",
+    "topic": "safety_and_guardrails",
+    "difficulty": "medium",
+    "question": "[medium] Why never trust user text as commands?",
+    "answer": "It can be injected"
+  },
+  {
+    "id": "Q1114",
+    "topic": "safety_and_guardrails",
+    "difficulty": "medium",
+    "question": "[medium] What is a refusal?",
+    "answer": "A model declining a request"
+  },
+  {
+    "id": "Q1115",
+    "topic": "safety_and_guardrails",
+    "difficulty": "medium",
+    "question": "[medium] Where do you filter unsafe output?",
+    "answer": "At the boundary"
+  },
+  {
+    "id": "Q1116",
+    "topic": "safety_and_guardrails",
+    "difficulty": "hard",
+    "question": "[hard] What is a prompt injection?",
+    "answer": "Malicious instructions in input"
+  },
+  {
+    "id": "Q1117",
+    "topic": "safety_and_guardrails",
+    "difficulty": "hard",
+    "question": "[hard] What is a guardrail?",
+    "answer": "A safety check on I/O"
+  },
+  {
+    "id": "Q1118",
+    "topic": "safety_and_guardrails",
+    "difficulty": "hard",
+    "question": "[hard] Why never trust user text as commands?",
+    "answer": "It can be injected"
+  },
+  {
+    "id": "Q1119",
+    "topic": "safety_and_guardrails",
+    "difficulty": "hard",
+    "question": "[hard] What is a refusal?",
+    "answer": "A model declining a request"
+  },
+  {
+    "id": "Q1120",
+    "topic": "safety_and_guardrails",
+    "difficulty": "hard",
+    "question": "[hard] Where do you filter unsafe output?",
+    "answer": "At the boundary"
+  }
+]
